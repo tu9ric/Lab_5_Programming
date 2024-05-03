@@ -5,6 +5,10 @@
 #include "Sum.h"
 #include "Delete_zeros.h"
 
+std::vector<int> delete_zeros(std::vector<int> C);
+std::vector<int> Multiply(const std::vector<int>& a, const std::vector<int>& b);
+std::vector<int> sum(std::vector<int> A, std::vector<int> B);
+
 int main()
 {
     //ВВОД СТЕПЕНЕЙ
