@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\main.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\main.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\main.cpp",
+  "output": "CMakeFiles\\LAB_5.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Multiply.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Multiply.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Multiply.cpp",
+  "output": "CMakeFiles\\LAB_5.dir\\Multiply.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Sum.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Sum.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Sum.cpp",
+  "output": "CMakeFiles\\LAB_5.dir\\Sum.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Delete_zeros.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Delete_zeros.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Delete_zeros.cpp",
+  "output": "CMakeFiles\\LAB_5.dir\\Delete_zeros.cpp.obj"
+}
+]
