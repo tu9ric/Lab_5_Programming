@@ -46,8 +46,42 @@ std::vector<int> Multiply(const std::vector<int>& a, const std::vector<int>& b)
 
 
 
+//удаление лишних нулей в конце
+/**
+ * @brief функция которая удаляет лишние нули в конце вектора
+ * 
+ * @param C - вектор в котором нужно удалить лишние нули в конце
+ * @return std::vector<int> - вектор без лишних нулей в конце
+ */
+std::vector<int> delete_zeros(std::vector<int> C)
+{
+    int i = C.size(); 
+    while(C[i - 1]  == 0)
+    {
+        C.pop_back();
+        i--;
+    }
+    return C;
+}
 
 
-
-
-
+/**
+ * @brief функция для сложения двух чисел(числа в векторном виде)
+ * функция работает по принципу сложения двух чисел в столбик
+ * @param A - первое слагаемое(вектор)
+ * @param B - второе слагаемое(вектор)
+ * @return std::vector<int> 
+ */
+std::vector<int> sum(std::vector<int> A, std::vector<int> B)
+{
+    int carry = 0;
+    for(int i = 0; i < std::max(A.size(), B.size()) || carry; i++)
+    {    
+        if(i == A.size())
+            A.push_back(0);
+        A[i] += carry + (i < B.size() ? B[i] : 0);
+        carry = A[i] >= 10;
+        if (carry) A[i] -= 10;
+    }
+    return A;
+}

@@ -1,16 +1,25 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include "Multiply.h"
-#include "Sum.h"
-#include "Delete_zeros.h"
+#include "Firsttask.h"
+#include "Secondtask.h"
+#include "Thirdtask.h"
 
+//FROM FIRSTTASK.H
 std::vector<int> delete_zeros(std::vector<int> C);
 std::vector<int> Multiply(const std::vector<int>& a, const std::vector<int>& b);
 std::vector<int> sum(std::vector<int> A, std::vector<int> B);
 
+//FROM SECONDTASK.H
+int returnPrivate(int dvs, int dvd);
+
+
+
 int main()
 {
+
+    //ЗАДАНИЕ 1
+    /*
     //ВВОД СТЕПЕНЕЙ
     long long input_1;
     long long input_2;
@@ -61,7 +70,24 @@ int main()
     {
         std::cout << res[i];
     }
-    
+    */
+
+
+    //ЗАДАНИЕ 2
+    /*
+    int dvs = 1000; 
+    int dvd = 10;
+    int result = returnPrivate(dvs, dvd); 
+    std::cout << dvs << " / " << dvd << " = " << result;
+    */
+
+    //ЗАДАНИЕ 3
+    start(); 
+    return 0;
+
+
+
+
     return 0;
 }
 

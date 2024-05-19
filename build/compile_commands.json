@@ -7,20 +7,20 @@
 },
 {
   "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Multiply.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Multiply.cpp",
-  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Multiply.cpp",
-  "output": "CMakeFiles\\LAB_5.dir\\Multiply.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Firsttask.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Firsttask.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Firsttask.cpp",
+  "output": "CMakeFiles\\LAB_5.dir\\Firsttask.cpp.obj"
 },
 {
   "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Sum.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Sum.cpp",
-  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Sum.cpp",
-  "output": "CMakeFiles\\LAB_5.dir\\Sum.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Secondtask.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Secondtask.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Secondtask.cpp",
+  "output": "CMakeFiles\\LAB_5.dir\\Secondtask.cpp.obj"
 },
 {
   "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Delete_zeros.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Delete_zeros.cpp",
-  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Delete_zeros.cpp",
-  "output": "CMakeFiles\\LAB_5.dir\\Delete_zeros.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Thirdtask.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Thirdtask.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Thirdtask.cpp",
+  "output": "CMakeFiles\\LAB_5.dir\\Thirdtask.cpp.obj"
 }
 ]

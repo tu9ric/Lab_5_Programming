@@ -223,20 +223,20 @@ build CMakeFiles/LAB_5.dir/main.cpp.obj: CXX_COMPILER__LAB_5_unscanned_Debug C$:
   OBJECT_DIR = CMakeFiles\LAB_5.dir
   OBJECT_FILE_DIR = CMakeFiles\LAB_5.dir
 
-build CMakeFiles/LAB_5.dir/Multiply.cpp.obj: CXX_COMPILER__LAB_5_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Multiply.cpp || cmake_object_order_depends_target_LAB_5
-  DEP_FILE = CMakeFiles\LAB_5.dir\Multiply.cpp.obj.d
+build CMakeFiles/LAB_5.dir/Firsttask.cpp.obj: CXX_COMPILER__LAB_5_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Firsttask.cpp || cmake_object_order_depends_target_LAB_5
+  DEP_FILE = CMakeFiles\LAB_5.dir\Firsttask.cpp.obj.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\LAB_5.dir
   OBJECT_FILE_DIR = CMakeFiles\LAB_5.dir
 
-build CMakeFiles/LAB_5.dir/Sum.cpp.obj: CXX_COMPILER__LAB_5_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Sum.cpp || cmake_object_order_depends_target_LAB_5
-  DEP_FILE = CMakeFiles\LAB_5.dir\Sum.cpp.obj.d
+build CMakeFiles/LAB_5.dir/Secondtask.cpp.obj: CXX_COMPILER__LAB_5_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Secondtask.cpp || cmake_object_order_depends_target_LAB_5
+  DEP_FILE = CMakeFiles\LAB_5.dir\Secondtask.cpp.obj.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\LAB_5.dir
   OBJECT_FILE_DIR = CMakeFiles\LAB_5.dir
 
-build CMakeFiles/LAB_5.dir/Delete_zeros.cpp.obj: CXX_COMPILER__LAB_5_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Delete_zeros.cpp || cmake_object_order_depends_target_LAB_5
-  DEP_FILE = CMakeFiles\LAB_5.dir\Delete_zeros.cpp.obj.d
+build CMakeFiles/LAB_5.dir/Thirdtask.cpp.obj: CXX_COMPILER__LAB_5_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Thirdtask.cpp || cmake_object_order_depends_target_LAB_5
+  DEP_FILE = CMakeFiles\LAB_5.dir\Thirdtask.cpp.obj.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles\LAB_5.dir
   OBJECT_FILE_DIR = CMakeFiles\LAB_5.dir
@@ -249,7 +249,7 @@ build CMakeFiles/LAB_5.dir/Delete_zeros.cpp.obj: CXX_COMPILER__LAB_5_unscanned_D
 #############################################
 # Link the executable LAB_5.exe
 
-build LAB_5.exe: CXX_EXECUTABLE_LINKER__LAB_5_Debug CMakeFiles/LAB_5.dir/main.cpp.obj CMakeFiles/LAB_5.dir/Multiply.cpp.obj CMakeFiles/LAB_5.dir/Sum.cpp.obj CMakeFiles/LAB_5.dir/Delete_zeros.cpp.obj
+build LAB_5.exe: CXX_EXECUTABLE_LINKER__LAB_5_Debug CMakeFiles/LAB_5.dir/main.cpp.obj CMakeFiles/LAB_5.dir/Firsttask.cpp.obj CMakeFiles/LAB_5.dir/Secondtask.cpp.obj CMakeFiles/LAB_5.dir/Thirdtask.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LAB_5.dir
