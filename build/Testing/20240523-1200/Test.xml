@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Site BuildName="Win32-ninja"
-	BuildStamp="20240519-0935-Experimental"
+	BuildStamp="20240523-1200-Experimental"
 	Name="Matebook_Artem"
 	Generator="ctest-3.28.1"
 	CompilerName="C:/msys64/mingw64/bin/g++.exe"
@@ -18,17 +18,17 @@
 	ProcessorCacheSize="0"
 	NumberOfLogicalCPU="20"
 	NumberOfPhysicalCPU="14"
-	TotalVirtualMemory="19436"
+	TotalVirtualMemory="18540"
 	TotalPhysicalMemory="16108"
 	LogicalProcessorsPerPhysical="1"
 	ProcessorClockFrequency="2688"
 	>
 	<Testing>
-		<StartDateTime>May 20 06:04 RTZ 6 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
-		<StartTestTime>1716159854</StartTestTime>
+		<StartDateTime>May 23 19:00 RTZ 6 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1716465611</StartTestTime>
 		<TestList/>
-		<EndDateTime>May 20 06:04 RTZ 6 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
-		<EndTestTime>1716159854</EndTestTime>
+		<EndDateTime>May 23 19:00 RTZ 6 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1716465611</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

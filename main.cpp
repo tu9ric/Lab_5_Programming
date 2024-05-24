@@ -7,19 +7,26 @@
 
 //FROM FIRSTTASK.H
 std::vector<int> delete_zeros(std::vector<int> C);
+std::vector<int> delete_zeros(std::vector<int> C);
 std::vector<int> Multiply(const std::vector<int>& a, const std::vector<int>& b);
 std::vector<int> sum(std::vector<int> A, std::vector<int> B);
 
 //FROM SECONDTASK.H
 int returnPrivate(int dvs, int dvd);
 
+//FROM THIRDTASK.H
+void finish(double t);
+void comp(std::string name);
+void square_root(int num);
+void divd(int dvd, double dvr);
+void start();
 
 
 int main()
 {
 
     //ЗАДАНИЕ 1
-    /*
+    //*    
     //ВВОД СТЕПЕНЕЙ
     long long input_1;
     long long input_2;
@@ -70,7 +77,7 @@ int main()
     {
         std::cout << res[i];
     }
-    */
+    //*/
 
 
     //ЗАДАНИЕ 2
@@ -82,9 +89,10 @@ int main()
     */
 
     //ЗАДАНИЕ 3
+    /*
     start(); 
     return 0;
-
+    */
 
 
 

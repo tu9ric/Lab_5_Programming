@@ -22,5 +22,23 @@
   "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\LAB_5.dir\\Thirdtask.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Thirdtask.cpp",
   "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Thirdtask.cpp",
   "output": "CMakeFiles\\LAB_5.dir\\Thirdtask.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\my_lib.dir\\Firsttask.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Firsttask.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Firsttask.cpp",
+  "output": "CMakeFiles\\my_lib.dir\\Firsttask.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\my_lib.dir\\Secondtask.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Secondtask.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Secondtask.cpp",
+  "output": "CMakeFiles\\my_lib.dir\\Secondtask.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\my_lib.dir\\Thirdtask.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Thirdtask.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_5\\Thirdtask.cpp",
+  "output": "CMakeFiles\\my_lib.dir\\Thirdtask.cpp.obj"
 }
 ]

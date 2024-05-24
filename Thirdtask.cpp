@@ -45,7 +45,9 @@ void square_root(int num)
     std::cout << " 4 pass" << std::endl;
 }
 
-void div(int dvd, double dvr)
+namespace my{
+
+void divd(int dvd, double dvr)
 {
     int num; 
     std::cout << "Введите число, из которого хотите извлечь квадратный корень: ";
@@ -77,6 +79,8 @@ void div(int dvd, double dvr)
     std::cout << "3 pass" << std::endl;
 }
 
+}
+
 void start()
 {
     int dividend; 
@@ -87,7 +91,7 @@ void start()
     std::cin >> divider;
     try
     {
-        div(dividend, divider);
+        my::divd(dividend, divider);
     }
     catch(int dividend)
     {
@@ -96,6 +100,10 @@ void start()
     catch (double divider)
     {
         std::cout << "На ноль делить нельзя!" << std::endl;
+    }
+    catch(...)
+    {
+        std::cout << "exception\n";
     }
     std::cout << "2 pass" << std::endl;
 }

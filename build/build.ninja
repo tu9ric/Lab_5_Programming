@@ -259,6 +259,49 @@ build LAB_5.exe: CXX_EXECUTABLE_LINKER__LAB_5_Debug CMakeFiles/LAB_5.dir/main.cp
   TARGET_IMPLIB = libLAB_5.dll.a
   TARGET_PDB = LAB_5.exe.dbg
 
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target my_lib
+
+
+#############################################
+# Order-only phony target for my_lib
+
+build cmake_object_order_depends_target_my_lib: phony || CMakeFiles/my_lib.dir
+
+build CMakeFiles/my_lib.dir/Firsttask.cpp.obj: CXX_COMPILER__my_lib_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Firsttask.cpp || cmake_object_order_depends_target_my_lib
+  DEP_FILE = CMakeFiles\my_lib.dir\Firsttask.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\my_lib.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_lib.dir
+
+build CMakeFiles/my_lib.dir/Secondtask.cpp.obj: CXX_COMPILER__my_lib_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Secondtask.cpp || cmake_object_order_depends_target_my_lib
+  DEP_FILE = CMakeFiles\my_lib.dir\Secondtask.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\my_lib.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_lib.dir
+
+build CMakeFiles/my_lib.dir/Thirdtask.cpp.obj: CXX_COMPILER__my_lib_unscanned_Debug C$:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/Thirdtask.cpp || cmake_object_order_depends_target_my_lib
+  DEP_FILE = CMakeFiles\my_lib.dir\Thirdtask.cpp.obj.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles\my_lib.dir
+  OBJECT_FILE_DIR = CMakeFiles\my_lib.dir
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target my_lib
+
+
+#############################################
+# Link the static library libmy_lib.a
+
+build libmy_lib.a: CXX_STATIC_LIBRARY_LINKER__my_lib_Debug CMakeFiles/my_lib.dir/Firsttask.cpp.obj CMakeFiles/my_lib.dir/Secondtask.cpp.obj CMakeFiles/my_lib.dir/Thirdtask.cpp.obj
+  LANGUAGE_COMPILE_FLAGS = -g
+  OBJECT_DIR = CMakeFiles\my_lib.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = libmy_lib.a
+  TARGET_PDB = my_lib.a.dbg
+
 
 #############################################
 # Utility command for package
@@ -547,6 +590,8 @@ build CMakeFiles/ContinuousSubmit | ${cmake_ninja_workdir}CMakeFiles/ContinuousS
 
 build LAB_5: phony LAB_5.exe
 
+build my_lib: phony libmy_lib.a
+
 # =============================================================================
 # Folder targets.
 
@@ -555,7 +600,7 @@ build LAB_5: phony LAB_5.exe
 #############################################
 # Folder: C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_5/build
 
-build all: phony LAB_5.exe
+build all: phony LAB_5.exe libmy_lib.a
 
 # =============================================================================
 # Built-in targets

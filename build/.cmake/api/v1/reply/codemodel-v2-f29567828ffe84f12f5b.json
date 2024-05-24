@@ -43,7 +43,8 @@
 						25,
 						26,
 						27,
-						28
+						28,
+						29
 					]
 				}
 			],
@@ -86,7 +87,8 @@
 						25,
 						26,
 						27,
-						28
+						28,
+						29
 					]
 				}
 			],
@@ -293,6 +295,13 @@
 					"id" : "NightlyUpdate::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-NightlyUpdate-Debug-fd64617263c50f921744.json",
 					"name" : "NightlyUpdate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_lib-Debug-c3f808eeb9ffe948bffd.json",
+					"name" : "my_lib",
 					"projectIndex" : 0
 				}
 			]

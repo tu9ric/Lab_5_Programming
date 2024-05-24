@@ -8,7 +8,7 @@
 void finish(double t);
 void comp(std::string name);
 void square_root(int num);
-void div(int dvd, double dvr);
+void divd(int dvd, double dvr);
 void start();
 
 

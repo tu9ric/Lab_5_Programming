@@ -2,9 +2,6 @@
 #include <vector>
 #include <algorithm>
 
-#ifndef SECONDTASK_H
-#define SECONDTASK_H
+#pragma once
 
 int returnPrivate(int dvs, int dvd);
-
-#endif

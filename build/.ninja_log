@@ -1,12 +1,18 @@
 # ninja log v5
-17	270	7377141642005496	CMakeFiles/LAB_5.dir/main.cpp.obj	fca96977ad1dd1f8
-273	357	7377141974738342	LAB_5.exe	7096fe4dc2ad0e50
+16	455	7382626662417283	CMakeFiles/LAB_5.dir/main.cpp.obj	fca96977ad1dd1f8
+24	377	7378748594798204	CMakeFiles/my_lib.dir/Secondtask.cpp.obj	a1ade19cff042397
+19	428	7382626662154525	CMakeFiles/my_lib.dir/Thirdtask.cpp.obj	67c77cfa5b6b7503
+855	1005	7378748601045049	LAB_5.exe	b5be63b72253e214
 15	326	7364392815103657	CMakeFiles/LAB_5.dir/Multiply.cpp.obj	c0148c0f6d99d0f9
-10	302	7377132143060300	CMakeFiles/LAB_5.dir/Firsttask.cpp.obj	71ce49421e592f50
+25	615	7378737503948375	CMakeFiles/LAB_5.dir/Firsttask.cpp.obj	71ce49421e592f50
 14	348	7364394674833093	CMakeFiles/LAB_5.dir/Sum.cpp.obj	d2ba696c9e9855e9
 14	402	7369400945770448	CMakeFiles/LAB_5.dir/Delete_zeros.cpp.obj	5237ec8bb1601f86
-4	273	7377141973949669	CMakeFiles/LAB_5.dir/Secondtask.cpp.obj	ba1d3fa85ef1e422
-7	412	7378462992631133	CMakeFiles/LAB_5.dir/Secondtask.cpp.obj	ba1d3fa85ef1e422
-9	413	7378462992641078	CMakeFiles/LAB_5.dir/Thirdtask.cpp.obj	63e8e7b6adcb151c
-18	289	7378463231757666	CMakeFiles/LAB_5.dir/main.cpp.obj	fca96977ad1dd1f8
-289	489	7378463233703855	LAB_5.exe	7bd4e14e4787282d
+13	494	7378746187521325	CMakeFiles/LAB_5.dir/Thirdtask.cpp.obj	63e8e7b6adcb151c
+31	433	7378737502181540	CMakeFiles/LAB_5.dir/Secondtask.cpp.obj	ba1d3fa85ef1e422
+3	15	0	clean	9c4b4372737ab8da
+19	527	7378748596264246	CMakeFiles/my_lib.dir/Firsttask.cpp.obj	182e2538905aa92f
+428	630	7382626664182557	libmy_lib.a	c1b4707806e45c69
+24	263	7382627328413035	CMakeFiles/LAB_5.dir/Secondtask.cpp.obj	ba1d3fa85ef1e422
+27	330	7382627329086997	CMakeFiles/LAB_5.dir/Thirdtask.cpp.obj	63e8e7b6adcb151c
+20	347	7382627329257228	CMakeFiles/LAB_5.dir/Firsttask.cpp.obj	71ce49421e592f50
+347	432	7382627330066769	LAB_5.exe	7bd4e14e4787282d
